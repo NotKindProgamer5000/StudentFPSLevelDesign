@@ -15,5 +15,5 @@ MonoBehaviour:
   sceneName: Scott Greenwood - Man Vs Squatters
   displayName: Man Vs Squatters
   creatorName: By Scott Greenwood
-  levelPrefab: {fileID: 5115060657782514083, guid: f6ca98d3746f205478cc70141f533645, type: 3}
+  levelPrefab: {fileID: 2006804275330299623, guid: a6ea52230fc56bc458dfcde959497fa7, type: 3}
   previewScale: {x: 0.1, y: 0.1, z: 0.1}
